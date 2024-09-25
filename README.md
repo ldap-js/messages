@@ -1,4 +1,4 @@
-# @ldapjs/messages
+# @ldap-js/messages
 
 Provides methods and objects to represent LDAP messages.
 
